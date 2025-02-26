@@ -8,7 +8,7 @@
 - Анализ значений переменных;
 - Пошаговое выполнение программы.
 
-[Исправленный код](https://github.com/Derikser/422_Kuvshinova_Reshetnyak_pr3_1/blob/Fibonacci/README.md)
+[Исправленный код](https://github.com/Derikser/422_Kuvshinova_Reshetnyak_pr3_1/blob/Fibonacci/README.md) :✅:
 
 ## [Задание 2 (Галактики)](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugging-absolute-beginners?view=vs-2022&source=recommendations&tabs=csharp)
 Примененные методы отладки:
