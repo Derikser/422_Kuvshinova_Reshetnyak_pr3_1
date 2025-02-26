@@ -8,7 +8,7 @@
 - Анализ значений переменных;
 - Пошаговое выполнение программы.
 
-[Исправленный код](https://github.com/Derikser/422_Kuvshinova_Reshetnyak_pr3_1/blob/Fibonacci/README.md) :✅:
+[Исправленный код](https://github.com/Derikser/422_Kuvshinova_Reshetnyak_pr3_1/blob/Fibonacci/README.md) :white_check_mark:
 
 ## [Задание 2 (Галактики)](https://learn.microsoft.com/ru-ru/visualstudio/debugger/debugging-absolute-beginners?view=vs-2022&source=recommendations&tabs=csharp)
 Примененные методы отладки:
@@ -18,7 +18,7 @@
 - Проверка значений переменных и состояния объектов во время отладки;
 - Работа с отладчиком.
 
-[Исправленный код](https://github.com/Derikser/422_Kuvshinova_Reshetnyak_pr3_1/blob/Galaxes/README.md)
+[Исправленный код](https://github.com/Derikser/422_Kuvshinova_Reshetnyak_pr3_1/blob/Galaxes/README.md) :white_check_mark:
 
 ## [Задание 3 (Буквы)](https://learn.microsoft.com/ru-ru/visualstudio/get-started/csharp/tutorial-debugger?toc=%2Fvisualstudio%2Fdebugger%2Ftoc.json&view=vs-2022#create-a-project)
 Примененные методы отладки:
@@ -30,4 +30,4 @@
 - Установка точек останова;
 - Работа с отладчиком.
 
-[Исправленный код](https://github.com/Derikser/422_Kuvshinova_Reshetnyak_pr3_1/blob/Letters/README.md)
+[Исправленный код](https://github.com/Derikser/422_Kuvshinova_Reshetnyak_pr3_1/blob/Letters/README.md) :white_check_mark:
